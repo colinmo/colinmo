@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @colinmo
-- 👀 I’m interested in coding in Golang, PHP, and Javascript; solution architecture; puns; and role playing games
+- 👀 I’m interested in recursion; coding in Golang, PHP, and Javascript; solution architecture; puns; role playing games; and recursion
 - 🌱 I’m currently learning golang and BDD
-- 📫 Find me at https://vonexplaino.com/ and <a rel="nofollow me" href="https://mstdn.social/@vonExplaino">Mastodon</a>
+- 📫 Find me at <a rel="nofollow me" href="https://vonexplaino.com/">https://vonexplaino.com/</a> and <a rel="nofollow me" href="https://mstdn.social/@vonExplaino">Mastodon</a>
